@@ -1,1 +1,1 @@
-# scala3-tutorial-for-kotlin-users
+# 写给kotlin用户的scala3教程
