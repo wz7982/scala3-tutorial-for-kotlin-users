@@ -156,8 +156,10 @@
     然后我们写一个对栈的弹出操作，并返回一个弹出顶部之后的栈，要求是只有非空的栈才能调用：
 
     ```scala
-    def pop: Stack[N] = stack match {
-        case Push(_, stack) => stack
+    extension [N <: Nat] (stack: Stack[Succ[N]]) {
+        def pop: Stack[N] = stack match {
+            case Push(top, stack) => stack
+        }
     }
     ```
 
