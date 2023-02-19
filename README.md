@@ -8,7 +8,7 @@
 
 [3. 面向对象](https://github.com/wz7982/scala3-tutorial-for-kotlin-users/blob/main/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1.md)
 
-[4. ADT与模式匹配（未完成）](https://github.com/wz7982/scala3-tutorial-for-kotlin-users/blob/main/ADT%E4%B8%8E%E6%A8%A1%E5%BC%8F%E5%8C%B9%E9%85%8D.md)
+[4. ADT与模式匹配](https://github.com/wz7982/scala3-tutorial-for-kotlin-users/blob/main/ADT%E4%B8%8E%E6%A8%A1%E5%BC%8F%E5%8C%B9%E9%85%8D.md)
 
 [5. 标准库（未完成）](https://github.com/wz7982/scala3-tutorial-for-kotlin-users/blob/main/%E6%A0%87%E5%87%86%E5%BA%93.md)
 
