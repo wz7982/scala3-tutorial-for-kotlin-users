@@ -12,7 +12,7 @@
 
 [5. 标准库](https://github.com/wz7982/scala3-tutorial-for-kotlin-users/blob/main/%E6%A0%87%E5%87%86%E5%BA%93.md)
 
-[6. 上下文抽象（未完成）](https://github.com/wz7982/scala3-tutorial-for-kotlin-users/blob/main/%E4%B8%8A%E4%B8%8B%E6%96%87%E6%8A%BD%E8%B1%A1.md)
+[6. 上下文抽象](https://github.com/wz7982/scala3-tutorial-for-kotlin-users/blob/main/%E4%B8%8A%E4%B8%8B%E6%96%87%E6%8A%BD%E8%B1%A1.md)
 
 [7. 类型（未完成）](https://github.com/wz7982/scala3-tutorial-for-kotlin-users/blob/main/%E7%B1%BB%E5%9E%8B.md)
 
