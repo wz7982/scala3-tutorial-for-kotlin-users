@@ -12,7 +12,7 @@ Scala得名于scalable（可扩展的），与Java8对函数式编程的浅尝�
 
 近年来，马丁及其团队对Scala的类型系统进行了整理规范，并将其命名为Dependent Object Type（依赖对象类型），简称DOT，并基于DOT设计了一种名为Dotty的新编程语言，它兼容以前的Scala，而Dotty还有另一个名字：Scala3。这也正是本教程的主角。
 
-## Scala与Kotlin的对比
+## Scala3与Kotlin的对比
 
 同为JVM上的编程语言，并且Scala诞生时间早于Kotlin，Kotlin的设计极大程度受到了Scala的影响，比如使用`val`和`var`区分变量可变性；`object`单例对象；以及最初的Kotlin版本中，接口使用关键字`trait`而不是`interface`等等。
 
@@ -57,10 +57,10 @@ Scala得名于scalable（可扩展的），与Java8对函数式编程的浅尝�
    1. [ADT与枚举]()
    2. [提取器]()
    3. [模式匹配]()
-4. 泛型
-   1. [类型参数]()
+4. 类型参数
+   1. [泛型]()
    2. [上下界]()
-   3. [型变]()
+   3. [泛型型变]()
    4. [GADT]()
 5. 标准库
    1. [List]()
