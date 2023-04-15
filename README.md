@@ -39,16 +39,16 @@ Scala得名于scalable（可扩展的），与Java8对函数式编程的浅尝�
 ## 目录
 
 1. 基础语法
-   1. [Hello World]()
-   2. [变量]()
-   3. [函数]()
-   4. [高阶函数与lambda]()
-   5. [内置控制结构]()
-   6. [类、字段和方法]()
-   7. [包和导入]()
-   8. [运算符]()
-   9. [单例对象]()
-   10. [样例类]()
+   1. [Hello World](https://github.com/wz7982/scala3-tutorial-for-kotlin-users/blob/main/1.1%20HelloWorld.md)
+   2. [变量](https://github.com/wz7982/scala3-tutorial-for-kotlin-users/blob/main/1.2%20%E5%8F%98%E9%87%8F.md)
+   3. [函数](https://github.com/wz7982/scala3-tutorial-for-kotlin-users/blob/main/1.3%20%E5%87%BD%E6%95%B0.md)
+   4. [高阶函数与lambda](https://github.com/wz7982/scala3-tutorial-for-kotlin-users/blob/main/1.4%20%E9%AB%98%E9%98%B6%E5%87%BD%E6%95%B0%E4%B8%8Elambda.md)
+   5. [内置控制结构](https://github.com/wz7982/scala3-tutorial-for-kotlin-users/blob/main/1.5%20%E5%86%85%E7%BD%AE%E6%8E%A7%E5%88%B6%E7%BB%93%E6%9E%84.md)
+   6. [类、字段和方法](https://github.com/wz7982/scala3-tutorial-for-kotlin-users/blob/main/1.6%20%E7%B1%BB%E3%80%81%E5%AD%97%E6%AE%B5%E5%92%8C%E6%96%B9%E6%B3%95.md)
+   7. [包和导入](https://github.com/wz7982/scala3-tutorial-for-kotlin-users/blob/main/1.7%20%E5%8C%85%E5%92%8C%E5%AF%BC%E5%85%A5.md)
+   8. [运算符](https://github.com/wz7982/scala3-tutorial-for-kotlin-users/blob/main/1.8%20%E8%BF%90%E7%AE%97%E7%AC%A6.md)
+   9. [单例对象](https://github.com/wz7982/scala3-tutorial-for-kotlin-users/blob/main/1.9%20%E5%8D%95%E4%BE%8B%E5%AF%B9%E8%B1%A1.md)
+   10. [样例类](https://github.com/wz7982/scala3-tutorial-for-kotlin-users/blob/main/1.10%20%E6%A0%B7%E4%BE%8B%E7%B1%BB.md)
 2. 特质
    1. [特质与继承]()
    2. [混入]()
